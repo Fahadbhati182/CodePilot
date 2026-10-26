@@ -6,7 +6,7 @@ CodePilot AI uses a modular, graph-based architecture in which an orchestrator r
 
 ## Architecture
 
-![CodePilot AI Multi-Agent Workflow](docs/codepilot-workflow.png)
+![CodePilot AI Multi-Agent Workflow](workflow_diagrams/final.png)
 
 > Add the workflow diagram to your repository at `docs/codepilot-workflow.png` to display it here.
 
